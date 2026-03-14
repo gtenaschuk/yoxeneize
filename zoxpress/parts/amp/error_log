@@ -1,0 +1,44 @@
+[03-Feb-2025 03:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php on line 3
+[03-Feb-2025 03:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_nav_menu() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-menu.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-menu.php on line 13
+[03-Feb-2025 03:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-single.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-single.php on line 2
+[03-Feb-2025 03:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php on line 3
+[03-Feb-2025 03:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php on line 3
+[03-Feb-2025 04:30:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php on line 3
+[03-Feb-2025 04:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_nav_menu() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-menu.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-menu.php on line 13
+[03-Feb-2025 04:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-single.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-single.php on line 2
+[03-Feb-2025 05:09:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-functions.php on line 3
+[03-Feb-2025 05:09:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_nav_menu() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-menu.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-menu.php on line 13
+[03-Feb-2025 05:09:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-single.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/parts/amp/amp-single.php on line 2

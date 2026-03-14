@@ -1,0 +1,17 @@
+/*
+Theme Name: ZoxPress Yoxeneize
+Template: zoxpress
+Text Domain: zoxpress
+*/
+
+/* Override color de categoría (zox-s-cat) */
+
+.zox-s6 #zox-home-widget-wrap span.zox-s-cat, .zox-s6 #zox-main-blog-wrap span.zox-s-cat {
+	font-size: 1rem !important;
+}
+span.zox-s-cat, .zox-sport1 span.zox-s-cat {
+	color: #333 !important;
+}
+.zox-byline-wrap span, .zox-byline-wrap span a {
+	font-size: 12px !important;
+}

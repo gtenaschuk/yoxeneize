@@ -1,0 +1,32 @@
+[03-Feb-2025 03:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php on line 12
+[03-Feb-2025 03:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php on line 12
+[03-Feb-2025 03:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php on line 12
+[03-Feb-2025 03:52:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php on line 12
+[03-Feb-2025 03:54:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php on line 12
+[03-Feb-2025 03:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php on line 12
+[03-Feb-2025 04:26:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php on line 12
+[03-Feb-2025 05:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/admin/options.php on line 12

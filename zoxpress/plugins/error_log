@@ -1,0 +1,20 @@
+[03-Feb-2025 03:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function did_action() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php:2101
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php on line 2101
+[03-Feb-2025 03:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function did_action() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php:2101
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php on line 2101
+[03-Feb-2025 03:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function did_action() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php:2101
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php on line 2101
+[03-Feb-2025 04:30:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function did_action() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php:2101
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php on line 2101
+[03-Feb-2025 05:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function did_action() in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php:2101
+Stack trace:
+#0 {main}
+  thrown in /home/mvpthemes/public_html/zoxpress/wp-content/themes/zoxpress/plugins/class-tgm-plugin-activation.php on line 2101
