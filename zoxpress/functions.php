@@ -140,6 +140,7 @@ get_template_part( 'parts/theme', 'options' );
 if ( ! function_exists( 'zox_scripts_method' ) ) {
 function zox_scripts_method() {
 	global $wp_styles;
+	wp_enqueue_style( 'fontawesome', get_stylesheet_directory_uri() . '/font-awesome/css/all.css' );
 	wp_enqueue_style( 'zox-iecss', get_stylesheet_directory_uri() . '/css/iecss.css', array( 'zox-style' )  );
 	wp_enqueue_style( 'zox-fonts', zox_fonts_url(), array(), null );
 	$wp_styles->add_data( 'zox-iecss', 'conditional', 'lt IE 10' );
