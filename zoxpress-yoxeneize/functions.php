@@ -60,7 +60,7 @@ add_action(
 add_action(
 	'after_setup_theme',
 	function () {
-		load_theme_textdomain( 'zoxpress', get_stylesheet_directory() . '/languages' );
+		load_child_theme_textdomain( 'zoxpress', get_stylesheet_directory() . '/languages' );
 	},
 	11
 );
