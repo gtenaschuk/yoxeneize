@@ -60,7 +60,19 @@ add_action(
 add_action(
 	'after_setup_theme',
 	function () {
-		load_child_theme_textdomain( 'zoxpress', get_stylesheet_directory() . '/languages' );
+		$domain = 'zoxpress';
+		$locale = determine_locale();
+		$mofile = get_stylesheet_directory() . '/languages/' . $domain . '-' . $locale . '.mo';
+
+		// Ensure parent-loaded textdomain does not mask child translations.
+		unload_textdomain( $domain );
+
+		if ( file_exists( $mofile ) ) {
+			load_textdomain( $domain, $mofile );
+			return;
+		}
+
+		load_child_theme_textdomain( $domain, get_stylesheet_directory() . '/languages' );
 	},
-	11
+	100
 );
